@@ -9,3 +9,4 @@
 
 - I have also included the env file in the repository for testing of my app.
 - Flag API was not working so I used some different API to integrate Flag.
+- You need to press ENTER to search in the Search bar, I did this to reduce the number of API calls on each key press.
